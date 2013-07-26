@@ -13350,7 +13350,7 @@ tinymce.create('tinymce.ui.Toolbar:tinymce.ui.Container', {
 				hidden_input : TRUE,
 				padd_empty_editor : TRUE,
 				render_ui : TRUE,
-				indentation : '30px',
+				indentation : '2em',
 				fix_table_elements : TRUE,
 				inline_styles : TRUE,
 				convert_fonts_to_spans : TRUE,
@@ -18985,4 +18985,3 @@ tinymce.onAddEditor.add(function(tinymce, ed) {
 		});
 	};
 })(tinymce);
-
